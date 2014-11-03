@@ -1,0 +1,4 @@
+zbir
+====
+
+zbiranje
